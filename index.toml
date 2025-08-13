@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "buildpack.sh"
-hash = "2efa125c58e13d8bc36ed690d54fb85e678140f12595891c825aed43161e8618"
-
-[[files]]
-file = "modlist.csv"
-hash = "b36a3a17e90beeba7310420046798f545b2d3550b1ac29112e68c50b76c12981"
-
-[[files]]
 file = "mods/abyssal-decor.pw.toml"
 hash = "424b7c3c727c6e4f9d225eb04d74e6fb25a1b440a11da38cff8fe86668fbdf38"
 metafile = true
