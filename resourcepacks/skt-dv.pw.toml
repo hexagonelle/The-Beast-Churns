@@ -1,0 +1,13 @@
+name = "SKT - Desaturated Vanilla"
+filename = "skt-dv v0.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KXqIBqWl/versions/Qmkurpr1/skt-dv%20v0.1.zip"
+hash-format = "sha512"
+hash = "1946597a831aa8a2f522fe92eec42cb7078a6d7ca17c7590aa35d4d38a1722880f91603db63acdc8551e809f5d233061521ff2fe86cd0641657464fb21e7fa69"
+
+[update]
+[update.modrinth]
+mod-id = "KXqIBqWl"
+version = "Qmkurpr1"

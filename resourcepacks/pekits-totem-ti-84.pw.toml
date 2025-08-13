@@ -1,0 +1,13 @@
+name = "Pekit's Totem - TI-84!"
+filename = "Pekit's Totem - TI-84.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66b77d3b897b2f38ba5bda229323c3d4b0e14392"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4143945
+project-id = 724469

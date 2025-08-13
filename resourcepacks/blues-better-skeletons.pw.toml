@@ -1,0 +1,13 @@
+name = "Blue's Better Skeletons"
+filename = "Blues_Better_Skeletons_v0.01.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ybSB27ca/versions/4b3My6DP/Blues_Better_Skeletons_v0.01.zip"
+hash-format = "sha512"
+hash = "a6203693fa5bb1470469cf38f489135cc906fd5c0e7152656d33ad362f954d516854d6e5988fe550a348e76db0e36de404eb09c712bcab16acc88ae8e4fe26bb"
+
+[update]
+[update.modrinth]
+mod-id = "ybSB27ca"
+version = "4b3My6DP"

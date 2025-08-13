@@ -767,3 +767,48 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
 metafile = true
+
+[[files]]
+file = "resourcepacks/blues-better-skeletons.pw.toml"
+hash = "092ade7616f7dc19a8685ba2083d3438b04e4d7018bcf07738c7ba6ac9669030"
+metafile = true
+
+[[files]]
+file = "resourcepacks/elysia-presents-lootr.pw.toml"
+hash = "b4f13351944b86590327f566ad53ae54fe4fd8a054acb3a54ac763427a08e64d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/half-mine.pw.toml"
+hash = "2f2839488232309091c1a2c73332480fbe3ce107fb807113e56a0028a938f9a5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pekits-retro-computer-anvil.pw.toml"
+hash = "47fd4c8d0a1fe8acc798cace4987f6e163a77e4f8601803b5e09bbfe7526de3a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pekits-totem-ti-84.pw.toml"
+hash = "ca66cd239eb88bb00a075d0a20e74c54cb5c79f19745bc27cdb1d891b4d7994a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/point-of-no-return.pw.toml"
+hash = "49d19124ecbc46cd72aa1d5295e32559b60665944e9e90a27f2a83fb8fcd0781"
+metafile = true
+
+[[files]]
+file = "resourcepacks/skt-dv.pw.toml"
+hash = "779b87bf9a0f75d55e5210562e05301bab372f73ccebd44450d6e3d253207079"
+metafile = true
+
+[[files]]
+file = "resourcepacks/splash-texts-half-life.pw.toml"
+hash = "77f1eb4eaddd903ee12c9b4360d32207ffcfb07c3eb7a29ed08c57161873947f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unique-dark.pw.toml"
+hash = "add358ba82b5e329c64ff1ea925007aeba0e7704b71942176bfa9f1cb1f1114d"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Pekit's Retro Computer Anvil!"
+filename = "Pekit's Retro Anvil! [Dark-Mode].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15afe20b9de2c190a4584b8530c4e3890129c808"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4166666
+project-id = 729677
