@@ -1,0 +1,13 @@
+name = "The Beast Churns"
+author = "Grace"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d353481b6a810a3731909c77bedc72093132f217aa2711ff52e13956608b2aed"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

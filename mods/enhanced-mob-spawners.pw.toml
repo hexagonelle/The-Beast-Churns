@@ -1,0 +1,13 @@
+name = "Enhanced Mob Spawners"
+filename = "spawnermod-1.20.1-1.9.3+Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZF0coYok/versions/OlDEdYjR/spawnermod-1.20.1-1.9.3%2BForge.jar"
+hash-format = "sha512"
+hash = "f02ac8ad9f4d5ff367ae8eac717429abedc5defab6604de241b4b0ede262dca8f6c62ea3a282824b42b61e62a73e045c2fe1bd694bfeccae6da57411aabb7f99"
+
+[update]
+[update.modrinth]
+mod-id = "ZF0coYok"
+version = "OlDEdYjR"

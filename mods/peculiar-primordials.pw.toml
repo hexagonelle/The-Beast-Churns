@@ -1,0 +1,13 @@
+name = "Peculiar Primordials"
+filename = "peculiarprimordials-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CIRJN359/versions/8HJ0FUP7/peculiarprimordials-1.1.0.jar"
+hash-format = "sha512"
+hash = "7f8dc2bcbc2afbdc395dc6dc282a6fd9f390b099e036a8a2081e1f8091e4b563179f7b351f9d908c9d7ee554ea6b257a1568815fec2a51f082c0c950ff861fb6"
+
+[update]
+[update.modrinth]
+mod-id = "CIRJN359"
+version = "8HJ0FUP7"

@@ -1,0 +1,13 @@
+name = "BoatView360"
+filename = "boatview360-v1.0.3-mc1.17-1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vqnOCHgM/versions/RWHe8yp0/boatview360-v1.0.3-mc1.17-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "5ba0e376f376d489343e327d925f17c419832df03fc16e683ac447db2563f6d3d6d77b7684237c539d8df38de5845eb5caabc65ffc32b5d485a8bef91ced4c3c"
+
+[update]
+[update.modrinth]
+mod-id = "vqnOCHgM"
+version = "RWHe8yp0"

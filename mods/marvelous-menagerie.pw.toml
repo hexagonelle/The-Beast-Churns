@@ -1,0 +1,13 @@
+name = "Marvelous Menagerie"
+filename = "marvelous_menagerie-1.3.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6UwDKoDM/versions/G2aFz1Mh/marvelous_menagerie-1.3.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "a70186826407b8a9473fd990c4ef43c4a82632790c5a2252254829c23fdc8fc7b62639d1fb3a33cd2e98480fbf374a30a841d17699b0fe30355030eb655fc997"
+
+[update]
+[update.modrinth]
+mod-id = "6UwDKoDM"
+version = "G2aFz1Mh"

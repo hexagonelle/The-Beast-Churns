@@ -1,0 +1,13 @@
+name = "Similar Prehistory"
+filename = "similar_prehistory-1.2.5-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TdzIKWSh/versions/gnD2Mn9L/similar_prehistory-1.2.5-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "dd6609b88d1ffa271f36d38adf597ea52954d63611895c26561b11f9c3ecaedb3e1f2ca2faac9e92caecdbe994fa6b91d21887e3232a1744b55d084b51f1777d"
+
+[update]
+[update.modrinth]
+mod-id = "TdzIKWSh"
+version = "gnD2Mn9L"

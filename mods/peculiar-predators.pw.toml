@@ -1,0 +1,13 @@
+name = "Peculiar Predators"
+filename = "peculiarpredators-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wxds2Mw9/versions/a85vXMwV/peculiarpredators-1.0.jar"
+hash-format = "sha512"
+hash = "f3bf252c4a81ce0897950cdd735288bf13065191d921bfb24cc8550acc7bce87f750eb29277867565c2d04866654bf4d3dc450f65612fe3123cd6fdb269a2592"
+
+[update]
+[update.modrinth]
+mod-id = "Wxds2Mw9"
+version = "a85vXMwV"

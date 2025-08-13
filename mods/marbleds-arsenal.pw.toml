@@ -1,0 +1,13 @@
+name = "Marbled's Arsenal"
+filename = "marbledsarsenal-1.20.1forge-2.3.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GBB5TIXx/versions/pMo2P29s/marbledsarsenal-1.20.1forge-2.3.0.3.jar"
+hash-format = "sha512"
+hash = "4bdf8561bf476e9935148cc6cd7dcc32ac0ab0b2bac30be91f450ffcc60d8c08aa70b40e2ab0908be1de2c46a0ce1a37bb223bb127adae242c43ce5e29b7fbe4"
+
+[update]
+[update.modrinth]
+mod-id = "GBB5TIXx"
+version = "pMo2P29s"
